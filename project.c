@@ -6,7 +6,8 @@ void start();
 void perform(int);
 void encrypt();
 void decrypt();
-
+/* updates or changes to be made:
+capital letters*/
 
 int main(){
     start();
